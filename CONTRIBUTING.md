@@ -45,6 +45,9 @@ You give a greater chance of closer and faster attention to your PRs by showing 
 - Add (PRO) iff you have a github pro account
 - Add (human) iff you'd accept any challenge for PoH, including a live video call / >1 proof channels etc. No sending of personal data/documents though, that's a no-go zone. No bits of hard feelings :)
 
+A dependency-free, privacy-preserving candidate flow and validator are
+documented in [docs/proof-of-humanity.md](docs/proof-of-humanity.md).
+
 You may contribute in the following ways:
 * Write code
 * Review pull requests
